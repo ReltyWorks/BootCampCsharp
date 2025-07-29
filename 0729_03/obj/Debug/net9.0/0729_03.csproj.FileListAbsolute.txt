@@ -12,3 +12,4 @@ C:\Users\user\Documents\GitHub\BootCampCsharp\0729_03\obj\Debug\net9.0\refint\07
 C:\Users\user\Documents\GitHub\BootCampCsharp\0729_03\obj\Debug\net9.0\0729_03.pdb
 C:\Users\user\Documents\GitHub\BootCampCsharp\0729_03\obj\Debug\net9.0\0729_03.genruntimeconfig.cache
 C:\Users\user\Documents\GitHub\BootCampCsharp\0729_03\obj\Debug\net9.0\ref\0729_03.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0729_03\obj\Debug\net9.0\0729_03.sourcelink.json
