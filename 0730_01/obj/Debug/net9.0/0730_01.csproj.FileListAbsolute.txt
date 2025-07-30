@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\0730_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\0730_01.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\0730_01.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\0730_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\0730_01.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\bin\Debug\net9.0\0730_01.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\bin\Debug\net9.0\0730_01.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\bin\Debug\net9.0\0730_01.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\bin\Debug\net9.0\0730_01.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\bin\Debug\net9.0\0730_01.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\0730_01.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\refint\0730_01.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\0730_01.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\0730_01.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_01\obj\Debug\net9.0\ref\0730_01.dll

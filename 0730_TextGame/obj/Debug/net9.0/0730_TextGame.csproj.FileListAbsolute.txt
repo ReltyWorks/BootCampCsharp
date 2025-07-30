@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\bin\Debug\net9.0\0730_TextGame.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\bin\Debug\net9.0\0730_TextGame.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\bin\Debug\net9.0\0730_TextGame.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\bin\Debug\net9.0\0730_TextGame.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\bin\Debug\net9.0\0730_TextGame.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\0730_TextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\0730_TextGame.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\0730_TextGame.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\0730_TextGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\0730_TextGame.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\0730_TextGame.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\refint\0730_TextGame.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\0730_TextGame.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\0730_TextGame.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0730_TextGame\obj\Debug\net9.0\ref\0730_TextGame.dll

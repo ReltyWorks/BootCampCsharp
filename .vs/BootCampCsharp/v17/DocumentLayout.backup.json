@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E308832-8DAD-4703-8739-8F40B2B92085}|0729_05\\0729_05.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0729_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E308832-8DAD-4703-8739-8F40B2B92085}|0729_05\\0729_05.csproj|solutionrelative:0729_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E329C9F3-FD7A-4FCF-94A8-5C06B673D22A}|0729_06\\0729_06.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0729_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E329C9F3-FD7A-4FCF-94A8-5C06B673D22A}|0729_06\\0729_06.csproj|solutionrelative:0729_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6201CA6-DAD8-4249-BF6A-054E3DC3B015}|0729_07\\0729_07.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0729_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6201CA6-DAD8-4249-BF6A-054E3DC3B015}|0729_07\\0729_07.csproj|solutionrelative:0729_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6579242-FF30-447F-9114-0F1519A13745}|0730_TextGame\\0730_TextGame.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0730_textgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6579242-FF30-447F-9114-0F1519A13745}|0730_TextGame\\0730_TextGame.csproj|solutionrelative:0730_textgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0729_05\\Program.cs",
-              "RelativeDocumentMoniker": "0729_05\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0729_05\\Program.cs",
-              "RelativeToolTip": "0729_05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0730_TextGame\\Program.cs",
+              "RelativeDocumentMoniker": "0730_TextGame\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0730_TextGame\\Program.cs",
+              "RelativeToolTip": "0730_TextGame\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwIUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T07:38:16.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0729_07\\Program.cs",
-              "RelativeDocumentMoniker": "0729_07\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0729_07\\Program.cs",
-              "RelativeToolTip": "0729_07\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T07:24:18.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0729_06\\Program.cs",
-              "RelativeDocumentMoniker": "0729_06\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0729_06\\Program.cs",
-              "RelativeToolTip": "0729_06\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T07:10:35.086Z",
+              "WhenOpened": "2025-07-30T03:09:24.554Z",
               "EditorCaption": ""
             }
           ]
