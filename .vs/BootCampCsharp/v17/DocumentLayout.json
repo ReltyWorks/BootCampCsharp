@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A2F35F3-AD80-4A0F-8C1F-FA6A4A7946B9}|0805_04\\0805_04.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0805_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A2F35F3-AD80-4A0F-8C1F-FA6A4A7946B9}|0805_04\\0805_04.csproj|solutionrelative:0805_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{304CAC3C-ADA6-48D3-8004-BF4E92D3C298}|0806_04\\0806_04.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0806_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304CAC3C-ADA6-48D3-8004-BF4E92D3C298}|0806_04\\0806_04.csproj|solutionrelative:0806_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0805_04\\Program.cs",
-              "RelativeDocumentMoniker": "0805_04\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0805_04\\Program.cs",
-              "RelativeToolTip": "0805_04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0806_04\\Program.cs",
+              "RelativeDocumentMoniker": "0806_04\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0806_04\\Program.cs",
+              "RelativeToolTip": "0806_04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T06:49:10.472Z",
+              "WhenOpened": "2025-08-06T06:19:08.003Z",
               "EditorCaption": ""
             }
           ]
