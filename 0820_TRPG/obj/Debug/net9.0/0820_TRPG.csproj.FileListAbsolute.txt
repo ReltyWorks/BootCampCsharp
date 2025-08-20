@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\bin\Debug\net9.0\0820_TRPG.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\bin\Debug\net9.0\0820_TRPG.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\bin\Debug\net9.0\0820_TRPG.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\bin\Debug\net9.0\0820_TRPG.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\bin\Debug\net9.0\0820_TRPG.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\0820_TRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\0820_TRPG.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\0820_TRPG.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\0820_TRPG.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\0820_TRPG.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\0820_TRPG.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\refint\0820_TRPG.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\0820_TRPG.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\0820_TRPG.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0820_TRPG\obj\Debug\net9.0\ref\0820_TRPG.dll
