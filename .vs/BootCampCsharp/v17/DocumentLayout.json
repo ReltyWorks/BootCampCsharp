@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B90CFDF6-1FC6-4D91-B09F-253BB6F05604}|0822_03\\0822_03.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0822_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B90CFDF6-1FC6-4D91-B09F-253BB6F05604}|0822_03\\0822_03.csproj|solutionrelative:0822_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CCFD85B-25BF-4F34-9D35-1C700B27415E}|0825_01\\0825_01.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0825_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCFD85B-25BF-4F34-9D35-1C700B27415E}|0825_01\\0825_01.csproj|solutionrelative:0825_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F38C61-BA3B-452D-8DF9-65BEC3BD6A0E}|0825_02\\0825_02.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0825_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F38C61-BA3B-452D-8DF9-65BEC3BD6A0E}|0825_02\\0825_02.csproj|solutionrelative:0825_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0825_02\\Program.cs",
+              "RelativeDocumentMoniker": "0825_02\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0825_02\\Program.cs",
+              "RelativeToolTip": "0825_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T08:50:55.216Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0822_03\\Program.cs",
-              "RelativeDocumentMoniker": "0822_03\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0822_03\\Program.cs",
-              "RelativeToolTip": "0822_03\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0825_01\\Program.cs",
+              "RelativeDocumentMoniker": "0825_01\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0825_01\\Program.cs",
+              "RelativeToolTip": "0825_01\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T05:01:57.241Z",
+              "WhenOpened": "2025-08-25T05:00:29.726Z",
               "EditorCaption": ""
             }
           ]
