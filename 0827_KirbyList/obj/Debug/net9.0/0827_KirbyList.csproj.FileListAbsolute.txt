@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\bin\Debug\net9.0\0827_KirbyList.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\bin\Debug\net9.0\0827_KirbyList.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\bin\Debug\net9.0\0827_KirbyList.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\bin\Debug\net9.0\0827_KirbyList.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\bin\Debug\net9.0\0827_KirbyList.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\0827_KirbyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\0827_KirbyList.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\0827_KirbyList.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\0827_KirbyList.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\0827_KirbyList.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\0827_KirbyList.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\refint\0827_KirbyList.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\0827_KirbyList.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\0827_KirbyList.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0827_KirbyList\obj\Debug\net9.0\ref\0827_KirbyList.dll
