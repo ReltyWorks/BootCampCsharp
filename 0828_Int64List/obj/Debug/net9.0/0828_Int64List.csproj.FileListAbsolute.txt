@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\bin\Debug\net9.0\0828_Int64List.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\bin\Debug\net9.0\0828_Int64List.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\bin\Debug\net9.0\0828_Int64List.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\bin\Debug\net9.0\0828_Int64List.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\bin\Debug\net9.0\0828_Int64List.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\0828_Int64List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\0828_Int64List.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\0828_Int64List.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\0828_Int64List.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\0828_Int64List.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\0828_Int64List.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\refint\0828_Int64List.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\0828_Int64List.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\0828_Int64List.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0828_Int64List\obj\Debug\net9.0\ref\0828_Int64List.dll
