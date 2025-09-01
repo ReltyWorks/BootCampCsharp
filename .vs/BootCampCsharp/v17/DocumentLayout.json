@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58E55094-07D8-40C9-8ECD-F51DC76CDD32}|0829_01\\0829_01.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0829_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E55094-07D8-40C9-8ECD-F51DC76CDD32}|0829_01\\0829_01.csproj|solutionrelative:0829_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6FB8666-0450-4C88-92BF-DA5EC0C4E7F1}|0901_02\\0901_02.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0901_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FB8666-0450-4C88-92BF-DA5EC0C4E7F1}|0901_02\\0901_02.csproj|solutionrelative:0901_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5797CA75-C785-425F-96FD-417528F6296D}|0901_03\\0901_03.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0901_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5797CA75-C785-425F-96FD-417528F6296D}|0901_03\\0901_03.csproj|solutionrelative:0901_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8181EDB2-55DB-4149-9B55-111051F4DCC9}|0901_01\\0901_01.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0901_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8181EDB2-55DB-4149-9B55-111051F4DCC9}|0901_01\\0901_01.csproj|solutionrelative:0901_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0829_01\\Program.cs",
-              "RelativeDocumentMoniker": "0829_01\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0829_01\\Program.cs",
-              "RelativeToolTip": "0829_01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0901_02\\Program.cs",
+              "RelativeDocumentMoniker": "0901_02\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0901_02\\Program.cs",
+              "RelativeToolTip": "0901_02\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T01:13:36.204Z",
+              "WhenOpened": "2025-09-01T03:57:37.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0901_01\\Program.cs",
+              "RelativeDocumentMoniker": "0901_01\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0901_01\\Program.cs",
+              "RelativeToolTip": "0901_01\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:49:59.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0901_03\\Program.cs",
+              "RelativeDocumentMoniker": "0901_03\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0901_03\\Program.cs",
+              "RelativeToolTip": "0901_03\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:09:47.677Z",
               "EditorCaption": ""
             }
           ]
