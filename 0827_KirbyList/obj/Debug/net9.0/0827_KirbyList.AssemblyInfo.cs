@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("0827_KirbyList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8db2ce8cf3950ab11d9929d21f9b4f22e748fb8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f2b978e403c0859f80588d269d5a26c619c2057")]
 [assembly: System.Reflection.AssemblyProductAttribute("0827_KirbyList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("0827_KirbyList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

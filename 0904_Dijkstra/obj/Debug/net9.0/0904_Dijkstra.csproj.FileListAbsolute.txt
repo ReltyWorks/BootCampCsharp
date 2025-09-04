@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\bin\Debug\net9.0\0904_Dijkstra.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\bin\Debug\net9.0\0904_Dijkstra.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\bin\Debug\net9.0\0904_Dijkstra.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\bin\Debug\net9.0\0904_Dijkstra.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\bin\Debug\net9.0\0904_Dijkstra.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\0904_Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\0904_Dijkstra.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\0904_Dijkstra.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\0904_Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\0904_Dijkstra.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\0904_Dijkstra.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\refint\0904_Dijkstra.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\0904_Dijkstra.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\0904_Dijkstra.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0904_Dijkstra\obj\Debug\net9.0\ref\0904_Dijkstra.dll
