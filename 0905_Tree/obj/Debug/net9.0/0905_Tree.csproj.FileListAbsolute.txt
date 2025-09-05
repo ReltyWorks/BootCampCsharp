@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\bin\Debug\net9.0\0905_Tree.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\bin\Debug\net9.0\0905_Tree.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\bin\Debug\net9.0\0905_Tree.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\bin\Debug\net9.0\0905_Tree.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\bin\Debug\net9.0\0905_Tree.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\0905_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\0905_Tree.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\0905_Tree.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\0905_Tree.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\0905_Tree.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\0905_Tree.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\refint\0905_Tree.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\0905_Tree.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\0905_Tree.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0905_Tree\obj\Debug\net9.0\ref\0905_Tree.dll

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4B07EA8-D910-4A01-8141-A03B1E956295}|0904_Dijkstra\\0904_Dijkstra.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0904_dijkstra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4B07EA8-D910-4A01-8141-A03B1E956295}|0904_Dijkstra\\0904_Dijkstra.csproj|solutionrelative:0904_dijkstra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC44F2C2-A5E2-4A36-AFD9-E9996D4B1FAD}|0905_Tree\\0905_Tree.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0905_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44F2C2-A5E2-4A36-AFD9-E9996D4B1FAD}|0905_Tree\\0905_Tree.csproj|solutionrelative:0905_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0904_Dijkstra\\Program.cs",
-              "RelativeDocumentMoniker": "0904_Dijkstra\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0904_Dijkstra\\Program.cs",
-              "RelativeToolTip": "0904_Dijkstra\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAowEYAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0905_Tree\\Program.cs",
+              "RelativeDocumentMoniker": "0905_Tree\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0905_Tree\\Program.cs",
+              "RelativeToolTip": "0905_Tree\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwBwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T00:52:44.1Z",
+              "WhenOpened": "2025-09-05T01:13:50.599Z",
               "EditorCaption": ""
             }
           ]
