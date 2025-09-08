@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\bin\Debug\net9.0\0908_BST_My.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\bin\Debug\net9.0\0908_BST_My.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\bin\Debug\net9.0\0908_BST_My.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\bin\Debug\net9.0\0908_BST_My.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\bin\Debug\net9.0\0908_BST_My.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\0908_BST_My.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\0908_BST_My.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\0908_BST_My.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\0908_BST_My.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\0908_BST_My.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\0908_BST_My.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\refint\0908_BST_My.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\0908_BST_My.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\0908_BST_My.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_BST_My\obj\Debug\net9.0\ref\0908_BST_My.dll

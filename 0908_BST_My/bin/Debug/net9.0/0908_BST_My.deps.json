@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "0908_BST_My/1.0.0": {
+        "runtime": {
+          "0908_BST_My.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0908_BST_My/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

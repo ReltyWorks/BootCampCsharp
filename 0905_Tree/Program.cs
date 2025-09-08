@@ -53,19 +53,20 @@ namespace _0905_Tree {
             foreach (TreeNode<String> child in _node.Children) Print(child);
         }
 
-        // 트리 높이
-        //static int GetHeight(TreeNode<String> _node) {
-        //    int height = 0;
-        //    int childHeight = 0;
-        //    if (_node.Children.Count == 0) return 0;
+        // 트리 높이 문제 (처음 푼것)
+        static int OldGetHeight(TreeNode<String> _node) {
+            int height = 0;
+            int childHeight = 0;
+            if (_node.Children.Count == 0) return 0;
 
-        //    foreach (TreeNode<String> child in _node.Children) {
-        //        childHeight = GetHeight(child);
-        //        if (childHeight > height) height = childHeight;
-        //    }
+            foreach (TreeNode<String> child in _node.Children) {
+                childHeight = OldGetHeight(child);
+                if (childHeight > height) height = childHeight;
+            }
 
-        //    return 1 + height;
-        //} 아래로 수정
+            return 1 + height;
+        }
+        // 아래는 최종 수정한것
         static int GetHeight(TreeNode<String> _node) {
             int height = 0;
             if (_node.Children.Count == 0) return 0;
@@ -75,6 +76,17 @@ namespace _0905_Tree {
             }
 
             return 1 + height;
+        }
+        // 아래는 강사님꺼
+        static int KimGetHeight(TreeNode<String> _node) {
+            int height = 0;
+
+            foreach (var child in _node.Children) {
+                int newHeight = KimGetHeight(child);
+                if (height < newHeight) height = newHeight;
+            }
+
+            return height;
         }
         static void Main() {
             TreeNode<String> root = MakeTree();

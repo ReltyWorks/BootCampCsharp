@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\bin\Debug\net9.0\0908_RedBlackTree.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\bin\Debug\net9.0\0908_RedBlackTree.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\bin\Debug\net9.0\0908_RedBlackTree.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\bin\Debug\net9.0\0908_RedBlackTree.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\bin\Debug\net9.0\0908_RedBlackTree.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\0908_RedBlackTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\0908_RedBlackTree.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\0908_RedBlackTree.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\0908_RedBlackTree.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\0908_RedBlackTree.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\0908_RedBlackTree.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\refint\0908_RedBlackTree.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\0908_RedBlackTree.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\0908_RedBlackTree.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0908_RedBlackTree\obj\Debug\net9.0\ref\0908_RedBlackTree.dll
