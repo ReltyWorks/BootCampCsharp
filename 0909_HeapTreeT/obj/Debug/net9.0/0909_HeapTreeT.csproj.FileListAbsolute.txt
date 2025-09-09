@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\bin\Debug\net9.0\0909_HeapTreeT.exe
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\bin\Debug\net9.0\0909_HeapTreeT.deps.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\bin\Debug\net9.0\0909_HeapTreeT.runtimeconfig.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\bin\Debug\net9.0\0909_HeapTreeT.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\bin\Debug\net9.0\0909_HeapTreeT.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\0909_HeapTreeT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\0909_HeapTreeT.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\0909_HeapTreeT.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\0909_HeapTreeT.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\0909_HeapTreeT.sourcelink.json
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\0909_HeapTreeT.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\refint\0909_HeapTreeT.dll
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\0909_HeapTreeT.pdb
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\0909_HeapTreeT.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\BootCampCsharp\0909_HeapTreeT\obj\Debug\net9.0\ref\0909_HeapTreeT.dll

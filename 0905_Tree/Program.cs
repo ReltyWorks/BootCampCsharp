@@ -7,7 +7,6 @@
 
 */
 
-using System.Xml.Linq;
 
 namespace _0905_Tree {
     class TreeNode<T> {
