@@ -5,7 +5,7 @@
         public int Length { get { return Arr.Length; } }
 
         public void Add(T _elem) {
-            EnsureCapacity(1);
+            EnsureCapacity();
             Arr[Count] = _elem;
             Count++;
         }
@@ -19,10 +19,12 @@
             }
         }
 
-        void EnsureCapacity(int _needSize) {
+        void EnsureCapacity(int _needSize = 1) {
             if (Length - Count < _needSize) {
                 T[] newArr = new T[Length * 2];
-                for (int i = 0; i < Count; i++) newArr[i] = Arr[i];
+                for (int i = 0; i < Count; i++) {
+                    newArr[i] = Arr[i];
+                }
                 Arr = newArr;
             }
         }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "0910_BJ10808/1.0.0": {
+        "runtime": {
+          "0910_BJ10808.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0910_BJ10808/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
