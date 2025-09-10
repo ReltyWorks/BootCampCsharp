@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16AD3574-FC9B-491B-9513-AA82E7F27ABE}|0910_LLL\\0910_LLL.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0910_lll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AD3574-FC9B-491B-9513-AA82E7F27ABE}|0910_LLL\\0910_LLL.csproj|solutionrelative:0910_lll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519A3A03-9702-4B5A-B8FA-673A62E6C48A}|0828_TrainList\\0828_TrainList.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0828_trainlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519A3A03-9702-4B5A-B8FA-673A62E6C48A}|0828_TrainList\\0828_TrainList.csproj|solutionrelative:0828_trainlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0910_LLL\\Program.cs",
+              "RelativeDocumentMoniker": "0910_LLL\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0910_LLL\\Program.cs",
+              "RelativeToolTip": "0910_LLL\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA1wEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:03:39.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0828_TrainList\\Program.cs",
+              "RelativeDocumentMoniker": "0828_TrainList\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0828_TrainList\\Program.cs",
+              "RelativeToolTip": "0828_TrainList\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T01:20:42.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
