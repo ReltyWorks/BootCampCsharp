@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40F2BFA0-7434-4238-831E-5808887208C3}|0911_02\\0911_02.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0911_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2BFA0-7434-4238-831E-5808887208C3}|0911_02\\0911_02.csproj|solutionrelative:0911_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B47B9A07-AF89-4483-A862-6940891064A8}|0911_01\\0911_01.csproj|c:\\users\\user\\documents\\github\\bootcampcsharp\\0911_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B47B9A07-AF89-4483-A862-6940891064A8}|0911_01\\0911_01.csproj|solutionrelative:0911_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0911_02\\Program.cs",
+              "RelativeDocumentMoniker": "0911_02\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0911_02\\Program.cs",
+              "RelativeToolTip": "0911_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T05:29:26.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0911_01\\Program.cs",
               "RelativeDocumentMoniker": "0911_01\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\BootCampCsharp\\0911_01\\Program.cs",
               "RelativeToolTip": "0911_01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T00:37:32.326Z",
               "EditorCaption": ""
